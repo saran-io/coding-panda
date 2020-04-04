@@ -1,0 +1,13 @@
+
+Uncle Bob References:
+
+1.https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html 
+
+Software Craftmanship:
+
+Functions:
+
+1. It should be only one thing and should be smaller
+2. All of the lines in the function should be in the same abstraction
+3. Do not go to high level from low level or vice versa.
+
